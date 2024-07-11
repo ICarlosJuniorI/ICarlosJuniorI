@@ -11,7 +11,7 @@
 <div align="center">
   <h2>🛠️Languages | Frameworks | Tools🛠️</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,nestjs,git,vscode&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,nodejs,nestjs,git,vscode&perline=8)](https://skillicons.dev)
   
   </br>
   </br>
