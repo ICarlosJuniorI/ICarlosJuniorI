@@ -4,24 +4,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=50&duration=4000&pause=3000&color=38C2FF&center=true&vCenter=true&random=false&width=750&height=100&lines=Hi+There!++I'm+Carlos+Junior!+%F0%9F%A4%99" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">I'm a Software Developer from Brazil 🇧🇷</h3>
+<h3 align="center">I'm a Frontend Developer from Brazil 🇧🇷</h3>
 </br>
 </br>
 
 <div align="center">
   <h2>🛠️Languages | Frameworks | Tools🛠️</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,tailwind,nodejs,nestjs,git,vscode&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,html,css,sass,tailwind,styledcomponents,nodejs,git,vscode&perline=8)](https://skillicons.dev)
   
   </br>
   </br>
-  <h2>📘I’m currently learning📘</h2>
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="50" height="50" />&nbsp;&nbsp;
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,androidstudio&perline=3)](https://skillicons.dev)
-</div>
-</br>
-</br>
+ 
 
 <div align="center">
   <h2>My Contributions</h2>
@@ -54,9 +48,6 @@
     </a>
     <a href="https://www.linkedin.com/in/icarlosjuniori" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://www.instagram.com/carlosjunior00" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
   </p>
 </div>
